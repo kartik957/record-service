@@ -55,7 +55,7 @@ public class RecordServiceImpl implements RecordService {
 			return updatedRecord;
 
 		} catch (Exception e) {
-			throw new CustomizedException("No record exist with"+ recordId);
+			throw new CustomizedException("No record exist with"+ record.gteRecordId());
 		}
 	}
 
