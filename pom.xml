@@ -3,7 +3,7 @@
   <parent>
     <groupId>com.nagarro</groupId>
     <artifactId>health-management-system</artifactId>
-    <version>0.0.1-SNAPSHOT</version> <!-- Update version if necessary -->
+    <version>0.0.1-SNAPSHOT</version>
   </parent>
 
   <dependencies>
